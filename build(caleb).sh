@@ -5,3 +5,5 @@ echo "Building project..."
 echo "Running tests..."
 echo "All tests passed!"
 echo "=== Build Complete ==="
+
+echo "Version 2.0"
